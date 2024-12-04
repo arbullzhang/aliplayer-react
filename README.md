@@ -20,7 +20,7 @@ import ReactDOM from 'react-dom';
 import Player from 'aliplayer-react';
 
 const config = {
-    source: "https://asset-shoppedance-com.oss-us-west-1.aliyuncs.com/recre/1732867966000004/4f46ab59a6394b8b82afe229f4b13019/output.m3u8",
+    source: "//player.alicdn.com/video/aliyunmedia.mp4",
     width: "100%",
     height: "500px",
     autoplay: true,
